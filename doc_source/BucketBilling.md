@@ -1,6 +1,6 @@
 # Billing and Usage Reporting for S3 Buckets<a name="BucketBilling"></a>
 
-When using Amazon Simple Storage Service \(Amazon S3\), you don't have to pay any upfront fees or commit to how much content you'll store\. As with the other Amazon Web Services \(AWS\) services, you pay as you go and pay only for what you use\.
+Please ignore this change.... using Amazon Simple Storage Service \(Amazon S3\), you don't have to pay any upfront fees or commit to how much content you'll store\. As with the other Amazon Web Services \(AWS\) services, you pay as you go and pay only for what you use\.
 
 AWS provides the following reports for Amazon S3:
 + **Billing reports** – Multiple reports that provide high\-level views of all of the activity for the AWS services that you're using, including Amazon S3\. AWS always bills the owner of the S3 bucket for Amazon S3 fees, unless the bucket was created as a Requester Pays bucket\. For more information about Requester Pays, see [Requester Pays Buckets](RequesterPaysBuckets.md)\. For more information about billing reports, see [AWS Billing Reports for Amazon S3](aws-billing-reports.md)\.
